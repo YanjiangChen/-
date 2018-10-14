@@ -1,8 +1,0 @@
-# 推送到gitlab标签的地址上
-   git push gitlab master
-
-# 删除gitlab 标签
-   git remote remove gitlab
-
-# 修改origin标签对应的地址
-   git remote set-url origin git@github.com:jirengu/blog3.git
